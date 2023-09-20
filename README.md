@@ -1,4 +1,4 @@
-![image](https://github.com/balkann/UnityCustomProjectWindow/assets/47062449/ab97dcdb-fcf4-4914-b02e-975bee6b9812)# UnityCustomPorjectWindow
+# UnityCustomPorjectWindow
 
 This Unity Editor Script has been created to add custom functionality to the Project window. This script can be used to display file size and script line count.
 
