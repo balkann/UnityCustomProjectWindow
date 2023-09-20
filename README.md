@@ -17,7 +17,7 @@ Open the Unity Editor.
 Select a file in the Project window, and the asset detail will be displayed.
 
 Support
-If you have any questions, feedback, or issues, please feel free to contact us at our email address.
+If you have any questions, feedback, or issues, please feel free to contact alknberkant@gmail.com
 
 License
 This script is licensed under the MIT License. For more information, please see the LICENSE file.
