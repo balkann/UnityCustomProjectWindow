@@ -1,4 +1,4 @@
-# UnityCustomPorjectWindow
+# UnityCustomProjectWindow
 
 This Unity Editor Script has been created to add custom functionality to the Project window. This script can be used to display file size and script line count.
 
